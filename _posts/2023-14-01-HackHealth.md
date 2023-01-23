@@ -3,6 +3,8 @@ title: Hack-Health
 date: 2023-01-21 12:00:00 -500
 categories: [projects, javascript]
 tags: [servers, hackathon, group, javascript, postgres] 
+pin: true
+
 ---
 
 <iframe

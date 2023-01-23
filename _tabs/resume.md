@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 3
 ---
 <object data="https://github.com/ajeddin/ajeddin/blob/main/Routine%20Email.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/ajeddin/ajeddin/blob/main/Routine%20Email.pdf">
