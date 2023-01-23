@@ -1,11 +1,12 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
-order: 3
+icon: fas fa-file
+order: 1
 ---
-<object data="https://github.com/ajeddin/ajeddin/blob/main/Routine%20Email.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/ajeddin/ajeddin/blob/main/Routine%20Email.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/ajeddin/ajeddin/raw/main/Routine%20Email.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<iframe src="/AJERESUMEPDF.pdf" width="100%" height="1000px">
+    </iframe>
 
+- <p>If resume didn't load press <a href="/AJERESUMEPDF.pdf">here</a>.</p>
+- <p>To download press <a href='https://github.com/ajeddin/ajeddin/raw/main/AJERESUMEPDF.pdf'>here</a>.</p>
+
+ 

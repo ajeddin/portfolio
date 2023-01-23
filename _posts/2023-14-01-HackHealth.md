@@ -6,11 +6,11 @@ tags: [servers, hackathon, group, javascript, postgres]
 pin: true
 
 ---
-Welcome to my project, HackHealth. A website that tracks patients prescrition, allow them to add/delete prescritption, make appointments with doctors with selected time slot.
+Welcome to my project, HackHealth. A website that tracks patients prescription, allow them to add/delete prescription, make appointments with doctors with selected time slot.
 
 <iframe
-    width="640"
-    height="480"
+    width="850"
+    height="500"
     src="https://www.youtube.com/embed/d-vUMf9xHKc"
     frameborder="0"
     allow="autoplay; encrypted-media"
