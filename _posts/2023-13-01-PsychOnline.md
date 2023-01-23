@@ -21,7 +21,6 @@ Welcome to my project, Psych Online. A website that analyzes the user's expressi
 
 
 
-<a name="readme-top"></a>
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
