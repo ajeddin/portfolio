@@ -12,7 +12,7 @@ Welcome to my project, Psych Online. A website that analyzes the user's expressi
     align="center"
     width="850"
     height="500"
-    src="https://awevideo.s3.amazonaws.com/video-13761407-168f6f28.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20230123%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230123T215443Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d2158158df2b1fffd88374b5d7b54cf0439fdf9a05fee3201297da64ae2767ff"
+    src="https://www.youtube.com/embed/ioWOTGysj0U"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
