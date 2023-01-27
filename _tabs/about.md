@@ -39,4 +39,5 @@ ___
         }
 }
 ```
+<img src='/assets/github-user-contribution.svg'>
 

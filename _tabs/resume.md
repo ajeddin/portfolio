@@ -9,4 +9,3 @@ order: 1
 - <p>If resume didn't load press <a href="/AJERESUMEPDF.pdf">here</a>.</p>
 - <p>To download press <a href='https://github.com/ajeddin/ajeddin/raw/main/AJERESUMEPDF.pdf'>here</a>.</p>
 
- 

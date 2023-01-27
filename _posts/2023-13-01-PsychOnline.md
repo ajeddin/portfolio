@@ -6,7 +6,7 @@ tags: [foundations, devmountain, javascript, postgres,servers] # TAG names shoul
 pin: true
 ---
 
-Welcome to my project, Psych Online. A website that analyzes the user's expression, returns quotes and GIFs based on the emotion, and a place to store your favorite quotes.
+Welcome to my project, Psych Online. A website that analyzes the user’s expression, returns quotes and GIFs based on the emotion, and has a place to store your favorite quotes.
 
 <iframe 
     align="center"
