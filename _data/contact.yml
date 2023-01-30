@@ -17,7 +17,7 @@
 -
   type: stack-overflow
   icon: 'fas fa-user'
-  url:  '/AJEPORTPDF.pdf'                  # Fill with your stackoverflow homepage
+  url:  '/resume.pdf'                  # Fill with your stackoverflow homepage
 -
 # -
   # type: rss
