@@ -18,7 +18,8 @@ ___
 	hobbies=['Coding','Music','Reading','Biking','Reselling','ChatGPT']
 }
  function skills(){
-        technologies=['javascript','python','html','css','axios','express','git','github','pandas','matplotlib','seaborn','postgress','bycrypt','aws']
+        technologies=['javascript','python','html','css','axios',
+        'express','git','github','pandas','matplotlib','seaborn','postgress','bycrypt','aws']
  }
  function location(){
 	location=['Dearborn Heights','Michigan']

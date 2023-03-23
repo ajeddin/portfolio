@@ -9,87 +9,112 @@
 
 <url>
   <loc>https://jeddin.me/</loc>
-  <lastmod>2023-02-08T23:43:41+00:00</lastmod>
+  <lastmod>2023-03-23T18:57:29+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://jeddin.me/resume/</loc>
-  <lastmod>2023-02-08T23:43:41+00:00</lastmod>
+  <lastmod>2023-03-23T18:57:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jeddin.me/categories/</loc>
-  <lastmod>2023-02-08T23:43:41+00:00</lastmod>
+  <lastmod>2023-03-23T18:57:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jeddin.me/archives/</loc>
-  <lastmod>2023-02-08T23:43:41+00:00</lastmod>
+  <lastmod>2023-03-23T18:57:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jeddin.me/about/</loc>
-  <lastmod>2023-02-08T23:43:41+00:00</lastmod>
+  <lastmod>2023-03-23T18:57:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jeddin.me/resume.pdf</loc>
-  <lastmod>2023-02-08T23:43:41+00:00</lastmod>
+  <lastmod>2023-03-23T18:57:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jeddin.me/posts/suicide-study/</loc>
+  <lastmod>2023-03-23T18:57:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jeddin.me/posts/hackhealth/</loc>
-  <lastmod>2023-02-08T23:43:41+00:00</lastmod>
+  <lastmod>2023-03-23T18:57:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jeddin.me/posts/psychonline/</loc>
-  <lastmod>2023-02-08T23:43:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeddin.me/tags/javascript/</loc>
-  <lastmod>2023-02-08T23:43:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeddin.me/tags/postgres/</loc>
-  <lastmod>2023-02-08T23:43:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeddin.me/tags/servers/</loc>
-  <lastmod>2023-02-08T23:43:41+00:00</lastmod>
+  <lastmod>2023-03-23T18:57:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jeddin.me/tags/devmountain/</loc>
-  <lastmod>2023-02-08T23:43:41+00:00</lastmod>
+  <lastmod>2023-03-23T18:57:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jeddin.me/tags/javascript/</loc>
+  <lastmod>2023-03-23T18:57:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jeddin.me/tags/postgres/</loc>
+  <lastmod>2023-03-23T18:57:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jeddin.me/tags/servers/</loc>
+  <lastmod>2023-03-23T18:57:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jeddin.me/tags/data/</loc>
+  <lastmod>2023-03-23T18:57:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jeddin.me/tags/foundations/</loc>
-  <lastmod>2023-02-08T23:43:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeddin.me/tags/group/</loc>
-  <lastmod>2023-02-08T23:43:41+00:00</lastmod>
+  <lastmod>2023-03-23T18:57:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jeddin.me/tags/hackathon/</loc>
-  <lastmod>2023-02-08T23:43:41+00:00</lastmod>
+  <lastmod>2023-03-23T18:57:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jeddin.me/tags/python/</loc>
+  <lastmod>2023-03-23T18:57:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jeddin.me/tags/specs/</loc>
+  <lastmod>2023-03-23T18:57:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jeddin.me/categories/projects/</loc>
-  <lastmod>2023-02-08T23:43:41+00:00</lastmod>
+  <lastmod>2023-03-23T18:57:29+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://jeddin.me/categories/javascript/</loc>
-  <lastmod>2023-02-08T23:43:41+00:00</lastmod>
+  <lastmod>2023-03-23T18:57:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jeddin.me/categories/python/</loc>
+  <lastmod>2023-03-23T18:57:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jeddin.me/categories/data/</loc>
+  <lastmod>2023-03-23T18:57:29+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
