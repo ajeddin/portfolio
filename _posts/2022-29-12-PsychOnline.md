@@ -2,7 +2,7 @@
 title: PsychOnline
 date: 2022-12-29 12:00:00 -500
 categories: [projects, javascript]
-tags: [ devmountain, javascript, postgres, servers] # TAG names should always be lowercase
+tags: [ devmountain, javascript, database, servers] # TAG names should always be lowercase
 # pin: true
 ---
 
