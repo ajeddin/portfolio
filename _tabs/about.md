@@ -12,21 +12,22 @@ ___
 
  ```javascript
  function introduction(){  
-	name='Abdulaziz Jamaleddin'
+	name='abdulaziz jamaleddin'
 	age=19
-	education=['DevMountain','Henry Ford College','Apple Developer Academy']
-	hobbies=['Coding','Music','Reading','Biking','Reselling','ChatGPT']
+	education=['devmountain','henry ford college','apple developer academy']
+	hobbies=['coding','music','reading']
 }
  function skills(){
-        technologies=['javascript','swiftui','python','html','css','axios',
-        'express','git','github','pandas','matplotlib','seaborn','postgress','bycrypt','aws']
+        languages=['javascript','swift','python','html','css','c']
+        technologies=['axios','express','git','github','pandas',
+        'matplotlib','seaborn','postgress','bycrypt','aws']
  }
  function location(){
-	location=['Dearborn Heights','Michigan']
+	location=['michigan']
 }
 
- function currently(){
-	studying=[ 'Computer Science','Python','Data Analysis'],
+ function current(){
+	studying=[ 'computer science','data analysis'],
         working=[ 'N/A' ]
 }
  function facts(){
@@ -34,9 +35,8 @@ ___
             book: '1984',
             movie: 'inception',
             hobby: 'reading',
-            song: 'yesterday, the beatles',
+            song: 'woods, mac miller',
             animal: 'cat',
-            color: 'red'
         }
 }
 ```

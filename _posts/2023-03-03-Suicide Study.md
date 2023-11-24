@@ -2,7 +2,7 @@
 title: Suicide Analysis
 date: 2023-03-01 12:00:00 -500
 categories: [projects, python, data]
-tags: [specs, devmountain, python, data] # TAG names should always be lowercase
+tags: [devmountain, python, data] # TAG names should always be lowercase
 # pin: true
 ---
 

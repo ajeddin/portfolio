@@ -2,7 +2,7 @@
 title: HackHealth
 date: 2023-01-21 12:00:00 -500
 categories: [projects, javascript]
-tags: [servers, hackathon, javascript, postgres]
+tags: [servers, hackathon, javascript, database]
 # pin: true
 ---
 

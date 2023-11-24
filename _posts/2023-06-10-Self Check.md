@@ -1,8 +1,8 @@
 ---
 title: Self Check
 date: 2023-06-10 12:00:00 -500
-categories: [projects, SwiftUI]
-tags: [apple developer academy, swiftui] # TAG names should always be lowercase
+categories: [projects, swift]
+tags: [apple developer academy, swift] # TAG names should always be lowercase
 # pin: true
 ---
 
