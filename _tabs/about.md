@@ -18,7 +18,7 @@ ___
 	hobbies=['coding','music','reading']
 }
  function skills(){
-        languages=['javascript','swift','python','html','css','c']
+        languages=['javascript','swift','python','c','c++']
         technologies=['axios','express','git','github','pandas',
         'matplotlib','seaborn','postgress','bycrypt','aws']
  }
