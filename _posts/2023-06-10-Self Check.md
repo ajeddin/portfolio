@@ -1,6 +1,6 @@
 ---
 title: Self Check
-date: 2023-06-10 12:00:00 -500
+date: 2023-10-06 12:00:00 -500
 categories: [projects, swift]
 tags: [apple developer academy, swift] # TAG names should always be lowercase
 # pin: true
