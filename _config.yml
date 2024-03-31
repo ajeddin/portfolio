@@ -81,7 +81,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://raw.githubusercontent.com/ajeddin/ajeddin/38f19f36001353f72d25d7509d10682832a2001d/IMG_3865.jpeg
+avatar: https://raw.githubusercontent.com/ajeddin/ajeddin/main/IMG_1240.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
