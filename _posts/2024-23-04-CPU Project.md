@@ -1,8 +1,8 @@
 ---
 title: CPU Project
 date: 2024-04-23 12:00:00 -500
-categories: [projects,c++]
-tags: [c++] # TAG names should always be lowercase
+categories: [projects,cpp]
+tags: [cpp] # TAG names should always be lowercase
 # pin: true
 ---
 
